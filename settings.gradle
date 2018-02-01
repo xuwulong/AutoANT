@@ -1,0 +1,1 @@
+include ':app', ':autotest-processor', ':autotest-api', ':autotest-annotation'

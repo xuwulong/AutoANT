@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Beehive.iml" filepath="$PROJECT_DIR$/Beehive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autotest-annotation/autotest-annotation.iml" filepath="$PROJECT_DIR$/autotest-annotation/autotest-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autotest-api/autotest-api.iml" filepath="$PROJECT_DIR$/autotest-api/autotest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autotest-processor/autotest-processor.iml" filepath="$PROJECT_DIR$/autotest-processor/autotest-processor.iml" />
+    </modules>
+  </component>
+</project>
